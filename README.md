@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samolivyu
-- 👀 I’m interested in JAVASCRIPT AND PYTHON
-- 🌱 I’m currently learning JAVASCRIPT.
+- 👀 I’m interested in fullstack Development
+- 🌱 I’m currently learning front end development.
 - 💞️ I’m looking to collaborate on NOTHING YET. TOO GREEN TO COLLABORATE WITH ANYONE RIGHT NOW.
 - 📫 How to reach me (Samolivyumanki@outlook.com)
 
