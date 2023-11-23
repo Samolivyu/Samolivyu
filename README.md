@@ -1,5 +1,5 @@
 Hello World! 
-I am Nesh, fresher Front end heavy Fullstack Developer. My favourite languages is React. 
+I am Nesh, fresher Front end heavy Fullstack developer. I love using React. 
 Looking forward to your colaboration: (Samolivyumanki@outlook.com)
 
 <!---
