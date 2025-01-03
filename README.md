@@ -1,5 +1,5 @@
 Hello World! 
-I am Nesh, a fresher Front end heavy Fullstack developer. I love using React. 
+I am Samolivyu. A web developer. I like front-end development and my favorite languages are JS and Vue. I also like using API's too. I look forward to collaborating and growing more. 
 Looking forward to your collaboration: (Samolivyumanki@outlook.com)
 
 <!---
